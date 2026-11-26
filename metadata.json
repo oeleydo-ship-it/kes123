@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel Works",
+  "description": "Full-stack web development, design systems, and high-throughput web infrastructure studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
